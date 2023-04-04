@@ -20,3 +20,20 @@ Hardware reversing of the MeowBit device developed by KittenBot for the Xueersi 
 ## Sensors
 
 ## Display
+
+| Pin Display | Pin ESP32 | GPIO      | Mode       |
+| ----------- | --------- | --------- | ---------- |
+| 1           |           |           | NC         |
+| 2           | GND       |           | GND        |
+| 3           |           |           | LED-       |
+| 4           |           |           | LED+       |
+| 5           | GND       |           | GND        |
+| 6           | 3         | EN        | RST        |
+| 7           | 26        | 4         | A0         |
+| 8           | 37        | 23        | SDA        |
+| 9           | 30        | 18        | SCK        |
+| 10          | VCC       |           | VCC        |
+| 11          | VCC       |           | IOVCC      |
+| 12          | 29        | 5         | CS         |
+| 13          | GND       |           | GND        |
+| 14          |           |           | NC         |
