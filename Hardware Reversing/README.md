@@ -1,7 +1,7 @@
 # Reversing-Meowbit-v1
 Hardware reversing of the MeowBit device developed by KittenBot for the Xueersi Coding platform.
 
-<img src="images/meowbit-hw-top.png" width="300" /> <img src="images/meowbit-hw-down.png" width="300" />
+<img src="../images/meowbit-hw-top.png" width="300" /> <img src="../images/meowbit-hw-down.png" width="300" />
 
 ## Leds
 
